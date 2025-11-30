@@ -10,18 +10,7 @@ Game Overview:
 
 Your roommate is trying to finish their homework, but their cats keep demanding attention! Deploy strategic contraptions to keep the cats entertained and away from your roommate long enough to complete the assignment.
 
-# Game Mechanics
-
-Turn-based Strategy: 
-
-Place contraptions during your turn, then watch them automatically defend
-
-Resource Management: Manage batteries to build and maintain your defense network
-
-Victory Condition: Survive 40 rounds without a cat reaching your roommate
-Defeat Condition: Any cat that reaches your roommate causes game over
-
-#Difficulty Modes
+# Difficulty Modes
 
 Easy Mode: Simple cat patterns, great for learning
 
