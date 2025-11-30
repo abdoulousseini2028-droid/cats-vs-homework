@@ -59,7 +59,10 @@ cd cats-vs-homework
 # Run the game:
 
 bashpython catsvshomework.py
-No external dependencies required! The game uses only Python standard libraries
+
+No external dependencies required! 
+
+The game uses only Python standard libraries
 
 # How to Play:
 
