@@ -8,7 +8,7 @@ In this version however, you must protect your roommate (who needs to submit a h
 
 Game Overview:
 
-Your roommate is trying to finish their homework, but their cats keep demanding attention! Deploy strategic contraptions to keep the cats entertained and away from your roommate long enough to complete the assignment.
+Roommate is trying to finish their homework, but their cats keep demanding attention! We Deploy strategic contraptions to keep the cats entertained and away from our roommate long enough to complete the assignment.
 
 # Difficulty Modes
 
