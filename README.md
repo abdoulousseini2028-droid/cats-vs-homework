@@ -6,12 +6,17 @@ In this version however, you must protect your roommate (who needs to submit a h
 <img width="900" height="653" alt="Screenshot 2025-11-30 101156" src="https://github.com/user-attachments/assets/63508955-309f-439c-a3e8-8fc57caf088b" />
 <img width="1835" height="966" alt="Screenshot 2025-11-30 102631" src="https://github.com/user-attachments/assets/56ff3454-d2e4-4f6d-a35e-00e4cf97396f" />
 
-Game Overview
+Game Overview:
+
 Your roommate is trying to finish their homework, but their cats keep demanding attention! Deploy strategic contraptions to keep the cats entertained and away from your roommate long enough to complete the assignment.
 Game Mechanics
 
-Turn-based Strategy: Place contraptions during your turn, then watch them automatically defend
+Turn-based Strategy: 
+
+Place contraptions during your turn, then watch them automatically defend
+
 Resource Management: Manage batteries to build and maintain your defense network
+
 Victory Condition: Survive 40 rounds without a cat reaching your roommate
 Defeat Condition: Any cat that reaches your roommate causes game over
 
