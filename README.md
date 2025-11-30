@@ -47,6 +47,7 @@ tkinter (usually comes with Python)
 Clone the repository:
 
 bashgit clone https://github.com/abdoulousseini2028-droid/cats-vs-homework.git
+
 cd cats-vs-homework
 
 # Run the game:
