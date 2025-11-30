@@ -23,17 +23,25 @@ Hard Mode: Fast-moving Kittens that take two actions per turn
 Contraptions (Defensive Units)
 
 Laser Pointer (7 batteries): Distracts first cat in a lane
+
 Snack Dispenser (4 batteries): Can withstand 5 cat interactions
+
 Battery Charger (3 batteries): Generates batteries every other turn
+
 Ball Thrower (3 batteries): Targets nearest cat within 3 tiles
+
 Triple Laser Pointer (12 batteries): Covers three lanes simultaneously
+
 Colorful Ball Thrower (5 batteries): Places persistent colorful balls on the board
+
 Space Heater (4 batteries): Creates a passive distraction zone (range 2)
 
 # Cat Types
 
 Tabby: Standard cat with 4 attention, rests 4 rounds
+
 Calico: Smart cat (5 attention) that moves up a lane when distracted
+
 Kitten: Energetic cat (3 attention) that moves twice per turn but rests 6 rounds
 
 # Installation & Setup
@@ -58,20 +66,28 @@ No external dependencies required! The game uses only Python standard libraries
 # How to Play:
 
 Select Difficulty: Choose Easy, Medium, or Hard
+
 Place Contraptions: Click a contraption, then click an empty tile
+
 Manage Resources: Each contraption costs batteries
+
 End Turn (Click 'End Turn'): Let contraptions act and cats move
+
 Strategy: Survive 40 rounds!
 
 # Pro Tips
 
 Place Battery Chargers early for sustainable defense
+
 Use Snack Dispensers as "walls" - they survive 5 hits
+
 Triple Laser Pointers cover 3 lanes but cost 12 batteries
+
 Space Heaters work great in corridors
+
 Watch out for Calicos that dodge up lanes!
 
-Technical Implementation
+# Technical Implementation
 Design Patterns Used
 
 Singleton Pattern: GameManager ensures single game state
